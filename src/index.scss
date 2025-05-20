@@ -1,5 +1,5 @@
-@import 'primereact/theme.sass';
-@import 'primereact/index.scss';
+@use 'primereact/theme';
+@use 'primereact/index';
 
 :root {
   // --color-text: #d3d8de;

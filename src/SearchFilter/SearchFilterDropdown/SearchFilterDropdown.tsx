@@ -10,7 +10,8 @@ import { Icon, IconType } from '../../Icon'
 import { Button } from '../../Buttons/Button'
 import { Spacer } from '../../Layout/Spacer'
 import { ShortcutTag } from '../../ShortcutTag'
-import { SwitchButton } from '../../Buttons/SwitchButton/SwitchButton'
+// Update the import path below to the correct location of SwitchButton:
+import { SwitchButton } from '../../Buttons/SwitchButton'
 
 type OnSelectConfig = {
   confirm?: boolean
